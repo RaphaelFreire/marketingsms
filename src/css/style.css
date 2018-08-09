@@ -1,2 +1,32 @@
+body {
+  background-color: #e9eef4; }
+
 h1, h2 {
   font-size: 1.7em; }
+
+.logo {
+  width: 300px; }
+
+.image {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%; }
+
+.facebook {
+  width: 30px;
+  height: 30px; }
+
+.texto-rodape {
+  color: #ffffff; }
+
+.texto-branco {
+  color: #ffffff; }
+
+.fundo-azul {
+  background-color: #263d77; }
+
+.fundo-verde {
+  background-color: #84cc13; }
+
+.fundo-branco {
+  background-color: #ffffff; }
